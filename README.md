@@ -88,4 +88,4 @@ curl localhost:5001/messages    # data masih ada
 5. **Health Check**: `curl` ke `http://localhost:5001/messages`
 
 ## Video Demo
-Link video: ISI_LINK_VIDEO
+Link video: https://drive.google.com/drive/folders/1cKDJPrQQh_xaZ498cP_3Nihwu8VtIhFc?usp=sharing
